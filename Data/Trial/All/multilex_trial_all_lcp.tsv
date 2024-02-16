@@ -1,0 +1,150 @@
+en_0	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	external	0.05
+en_1	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	pulled	0.075
+en_2	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	robot	0.1
+en_3	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	bank	0.05
+en_4	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	recommended	0.1
+en_5	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	declared	0.05
+en_6	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	remainder	0.1
+en_7	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	controlling	0.175
+en_8	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	conditional	0.175
+en_9	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	gone	0.075
+en_10	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	prerequisite	0.4
+en_11	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	relates	0.075
+en_12	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	micro	0.22727272727272727
+en_13	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	controllers	0.18181818181818182
+en_14	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	hardware	0.18181818181818182
+en_15	english	A pickup is a magnet wrapped in a coil of wire.	wrapped	0.025
+en_16	english	A pickup is a magnet wrapped in a coil of wire.	coil	0.15
+en_17	english	A pickup is a magnet wrapped in a coil of wire.	pickup	0.475
+en_18	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	reagent	0.6818181818181818
+en_19	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	electrons	0.2727272727272727
+en_20	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	neutrally	0.22727272727272727
+en_21	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	beautiful	0.05
+en_22	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	undertake	0.225
+en_23	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	discover	0.1
+en_24	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	seventh	0.022727272727272728
+en_25	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	eliminated	0.3181818181818182
+en_26	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	erstwhile	0.9318181818181818
+en_27	english	A vector is a quantity which expresses both magnitude and direction.	magnitude	0.175
+en_28	english	A vector is a quantity which expresses both magnitude and direction.	quantity	0.075
+en_29	english	A vector is a quantity which expresses both magnitude and direction.	vector	0.25
+fr_ 1	french	Cette gratuité n'est que partielle puisque une partie des impôts fonciers payés par les propriétaires est consacrée à l'entretien des réseaux de distribution.	entretien	0.675
+fr_ 2	french	Cette gratuité n'est que partielle puisque une partie des impôts fonciers payés par les propriétaires est consacrée à l'entretien des réseaux de distribution.	consacrée	0.65
+fr_ 3	french	Ces récepteurs envoient des messages au cerveau qui traite les informations, puis le cerveau les stocke et crée nos souvenirs.	stocke	0.35
+fr_ 4	french	Ces récepteurs envoient des messages au cerveau qui traite les informations, puis le cerveau les stocke et crée nos souvenirs.	traite	0.375
+fr_ 5	french	Ces récepteurs envoient des messages au cerveau qui traite les informations, puis le cerveau les stocke et crée nos souvenirs.	récepteurs	0.325
+fr_ 6	french	Une enseigne prospère qu'il a bâtie de ses mains, en partant de rien.	prospère	0.4
+fr_ 7	french	Une enseigne prospère qu'il a bâtie de ses mains, en partant de rien.	bâtie	0.75
+fr_ 8	french	Une enseigne prospère qu'il a bâtie de ses mains, en partant de rien.	partant	0.525
+fr_ 9	french	Ainsi, le Gulf Stream, ce courant qui garantit la douceur du climat de l'Europe occidentale, pourrait être déplacé, ce qui, paradoxalement, entraînerait un refroidissement de l'Europe de l'Ouest.	courant	0.475
+fr_10	french	Ainsi, le Gulf Stream, ce courant qui garantit la douceur du climat de l'Europe occidentale, pourrait être déplacé, ce qui, paradoxalement, entraînerait un refroidissement de l'Europe de l'Ouest.	entraînerait	0.625
+fr_11	french	Ainsi, le Gulf Stream, ce courant qui garantit la douceur du climat de l'Europe occidentale, pourrait être déplacé, ce qui, paradoxalement, entraînerait un refroidissement de l'Europe de l'Ouest.	garantit	0.075
+fr_12	french	Demander le droit de vote aux élections locales, ce n'est pas réclamer un privilège, c'est montrer que l'on souhaite participer davantage à la vie de la cité.	cité	0.275
+fr_13	french	Demander le droit de vote aux élections locales, ce n'est pas réclamer un privilège, c'est montrer que l'on souhaite participer davantage à la vie de la cité.	davantage	0.525
+fr_14	french	Demander le droit de vote aux élections locales, ce n'est pas réclamer un privilège, c'est montrer que l'on souhaite participer davantage à la vie de la cité.	réclamer	0.4
+fr_15	french	Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur notre site.	notice	0.1
+fr_16	french	Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur notre site.	responsables	0.075
+fr_17	french	Pour chaque site, une courte notice explique ce qu'il est, qui sont ses responsables, quel courant ou tendance il représente, et renvoie à une fiche plus complète sur notre site.	tendance	0.35
+fr_18	french	En revanche, ie suis orgueilleux de mes origines irlandaises, une sorte de tradition familiale qu'on a établi en deux générations mon père et moi.	orgueilleux	0.75
+fr_19	french	En revanche, ie suis orgueilleux de mes origines irlandaises, une sorte de tradition familiale qu'on a établi en deux générations mon père et moi.	établi	0.35
+fr_20	french	En revanche, ie suis orgueilleux de mes origines irlandaises, une sorte de tradition familiale qu'on a établi en deux générations mon père et moi.	sorte	0.25
+fr_21	french	Je reste à votre disposition pour tout renseignement complémentaire.	disposition	0.225
+fr_22	french	Je reste à votre disposition pour tout renseignement complémentaire.	renseignement	0.5
+fr_23	french	Je reste à votre disposition pour tout renseignement complémentaire.	complémentaire	0.1
+fr_24	french	Depuis quelques années, la question du sexisme à l'école et de ses conséquences sur les enfants interroge les professionnels de l'éducation.	conséquences	0.1
+fr_25	french	Depuis quelques années, la question du sexisme à l'école et de ses conséquences sur les enfants interroge les professionnels de l'éducation.	interroge	0.3
+fr_26	french	Depuis quelques années, la question du sexisme à l'école et de ses conséquences sur les enfants interroge les professionnels de l'éducation.	question	0
+fr_27	french	Vers 1866, apparaît le pneumatique.	pneumatique	0.55
+fr_28	french	La profession de coach de vie est en plein essor et s'impose dans tous les domaines de la vie.	essor	0.8
+fr_29	french	La profession de coach de vie est en plein essor et s'impose dans tous les domaines de la vie.	coach	0.1
+fr_30	french	La profession de coach de vie est en plein essor et s'impose dans tous les domaines de la vie.	impose	0.15
+it_1	italian	Aveva l'aria di una perduta nobiltà: la miseria gli si leggeva tutta nel volto e nella camicia sbrindellata sul petto.	perduta	0.08
+it_2	italian	Aveva l'aria di una perduta nobiltà: la miseria gli si leggeva tutta nel volto e nella camicia sbrindellata sul petto.	miseria	0.08
+it_3	italian	Aveva l'aria di una perduta nobiltà: la miseria gli si leggeva tutta nel volto e nella camicia sbrindellata sul petto.	sbrindellata	0.3
+it_4	italian	Sono per lo più opere di autori anonimi, spesso giunte a noi frammentarie, che ritraggono la società dell'epoca, orientata al profitto e al piacere.	anonimi	0.03
+it_5	italian	Sono per lo più opere di autori anonimi, spesso giunte a noi frammentarie, che ritraggono la società dell'epoca, orientata al profitto e al piacere.	giunte	0.08
+it_6	italian	Sono per lo più opere di autori anonimi, spesso giunte a noi frammentarie, che ritraggono la società dell'epoca, orientata al profitto e al piacere.	profitto	0.15
+it_7	italian	Gli piaceva come raccontava il Manolo, con quelle frasi ampollose costellate di parole in dialetto	ampollose	0.43
+it_8	italian	Gli piaceva come raccontava il Manolo, con quelle frasi ampollose costellate di parole in dialetto	costellate	0.28
+it_9	italian	Gli piaceva come raccontava il Manolo, con quelle frasi ampollose costellate di parole in dialetto	parole	0.03
+it_10	italian	Dopo una giovinezza irrequieta angustiata dalle ristrettezze economiche (i Pulci erano una nobile famiglia decaduta), è introdotto presso la famiglia Medici nel 1461, dove entra presto nelle grazie del giovane Lorenzo.	giovinezza	0.03
+it_11	italian	Dopo una giovinezza irrequieta angustiata dalle ristrettezze economiche (i Pulci erano una nobile famiglia decaduta), è introdotto presso la famiglia Medici nel 1461, dove entra presto nelle grazie del giovane Lorenzo.	angustiata	0.38
+it_12	italian	Dopo una giovinezza irrequieta angustiata dalle ristrettezze economiche (i Pulci erano una nobile famiglia decaduta), è introdotto presso la famiglia Medici nel 1461, dove entra presto nelle grazie del giovane Lorenzo.	grazie	0.18
+it_13	italian	Inventiamo miti e trame per sottrarre al tempo la sua apparente mancanza di senso.	sottrarre	0.08
+it_14	italian	Inventiamo miti e trame per sottrarre al tempo la sua apparente mancanza di senso.	apparente	0.12
+it_15	italian	Inventiamo miti e trame per sottrarre al tempo la sua apparente mancanza di senso.	mancanza	0.03
+it_16	italian	È uno dei poemi più singolari della letteratura italiana, dato il tono giocoso e le avventure mirabolanti di alcuni personaggi.	singolari	0.22
+it_17	italian	È uno dei poemi più singolari della letteratura italiana, dato il tono giocoso e le avventure mirabolanti di alcuni personaggi.	giocoso	0.1
+it_18	italian	È uno dei poemi più singolari della letteratura italiana, dato il tono giocoso e le avventure mirabolanti di alcuni personaggi.	mirabolanti	0.48
+it_19	italian	"Lo stile è molto popolareggiante, a volte quasi con ostentazione (specialmente in alcune canzoni, che sembrano costituite da centoni di proverbi popolari), ma senza per questo risultare affettato; e si deve ricordare come Poliziano fosse una delle persone più colte e raffinate del suo tempo."	popolareggiante	0.3
+it_20	italian	"Lo stile è molto popolareggiante, a volte quasi con ostentazione (specialmente in alcune canzoni, che sembrano costituite da centoni di proverbi popolari), ma senza per questo risultare affettato; e si deve ricordare come Poliziano fosse una delle persone più colte e raffinate del suo tempo."	ostentazione	0.12
+it_21	italian	"Lo stile è molto popolareggiante, a volte quasi con ostentazione (specialmente in alcune canzoni, che sembrano costituite da centoni di proverbi popolari), ma senza per questo risultare affettato; e si deve ricordare come Poliziano fosse una delle persone più colte e raffinate del suo tempo."	affettato	0.52
+it_22	italian	Tardo a capire, incapace d'un solo gesto e d'una sola parola, inchiodato alla mia viltà e al mio livore, io rimanevo il solito piccolo, impotente sicario di sempre.	tardo	0.32
+it_23	italian	Tardo a capire, incapace d'un solo gesto e d'una sola parola, inchiodato alla mia viltà e al mio livore, io rimanevo il solito piccolo, impotente sicario di sempre.	livore	0.52
+it_24	italian	Tardo a capire, incapace d'un solo gesto e d'una sola parola, inchiodato alla mia viltà e al mio livore, io rimanevo il solito piccolo, impotente sicario di sempre.	sicario	0.48
+it_25	italian	Gli Stati europei danno vita a veri e propri imperi attraverso cui controllare le colonie, mentre nella società si diffonde l'idea che con il lavoro si possa estendere indefinitamente il benessere e la civiltà, liberando gli uomini dai condizionamenti della natura.	estendere	0.25
+it_26	italian	Gli Stati europei danno vita a veri e propri imperi attraverso cui controllare le colonie, mentre nella società si diffonde l'idea che con il lavoro si possa estendere indefinitamente il benessere e la civiltà, liberando gli uomini dai condizionamenti della natura.	indefinitamente	0.32
+it_27	italian	Gli Stati europei danno vita a veri e propri imperi attraverso cui controllare le colonie, mentre nella società si diffonde l'idea che con il lavoro si possa estendere indefinitamente il benessere e la civiltà, liberando gli uomini dai condizionamenti della natura.	condizionamenti	0.43
+it_28	italian	Negli ultimi quattro anni di vita Anna aveva sofferto e superato dolori immensi, folgoranti come l'esplosione di un deposito di metano e che le stagnavano ancora nel cuore.	immensi	0.18
+it_29	italian	Negli ultimi quattro anni di vita Anna aveva sofferto e superato dolori immensi, folgoranti come l'esplosione di un deposito di metano e che le stagnavano ancora nel cuore.	folgoranti	0.43
+it_30	italian	Negli ultimi quattro anni di vita Anna aveva sofferto e superato dolori immensi, folgoranti come l'esplosione di un deposito di metano e che le stagnavano ancora nel cuore.	stagnavano	0.48
+ja_1	japanese	それをエラストが連れ戻すことで恩を売り、なおかつ結婚を認めさせようという計画である。	連れ戻す	0.24
+ja_2	japanese	それをエラストが連れ戻すことで恩を売り、なおかつ結婚を認めさせようという計画である。	恩を売り	0.56
+ja_3	japanese	それをエラストが連れ戻すことで恩を売り、なおかつ結婚を認めさせようという計画である。	なおかつ	0.40
+ja_4	japanese	各種の自動車、自転車、市電など、ぜんぜん気にかけない。	各種の	0.16
+ja_5	japanese	各種の自動車、自転車、市電など、ぜんぜん気にかけない。	市電	0.38
+ja_6	japanese	各種の自動車、自転車、市電など、ぜんぜん気にかけない。	気にかけない	0.38
+ja_7	japanese	ドラマに関する感想を募集し、週ごとにピックアップして回答も掲載した。	募集し	0.08
+ja_8	japanese	ドラマに関する感想を募集し、週ごとにピックアップして回答も掲載した。	ピックアップして	0.04
+ja_9	japanese	ドラマに関する感想を募集し、週ごとにピックアップして回答も掲載した。	掲載した	0.32
+ja_10	japanese	再びはじめに戻れば、{a,b}=cまたは{a,b}={c,d}である。	再び	0.06
+ja_11	japanese	再びはじめに戻れば、{a,b}=cまたは{a,b}={c,d}である。	はじめ	0.02
+ja_12	japanese	再びはじめに戻れば、{a,b}=cまたは{a,b}={c,d}である。	または	0.06
+ja_13	japanese	旧基準の製品を使用する場合は、収納部分の扉のロックが壊れていたら、直ちに使用を中止してください。	旧	0.12
+ja_14	japanese	旧基準の製品を使用する場合は、収納部分の扉のロックが壊れていたら、直ちに使用を中止してください。	ロック	0.02
+ja_15	japanese	旧基準の製品を使用する場合は、収納部分の扉のロックが壊れていたら、直ちに使用を中止してください。	直ちに	0.22
+ja_16	japanese	楽譜にはそれぞれ、長大な標題がリストによって書き添えられている。	長大な	0.38
+ja_17	japanese	楽譜にはそれぞれ、長大な標題がリストによって書き添えられている。	標題	0.30
+ja_18	japanese	楽譜にはそれぞれ、長大な標題がリストによって書き添えられている。	書き添えられて	0.48
+ja_19	japanese	過去の作品で馴染み深かった音楽が一部変更されている（戦闘曲やレベルアップ音など）。	馴染み深かった	0.40
+ja_20	japanese	過去の作品で馴染み深かった音楽が一部変更されている（戦闘曲やレベルアップ音など）。	変更されて	0.08
+ja_21	japanese	過去の作品で馴染み深かった音楽が一部変更されている（戦闘曲やレベルアップ音など）。	戦闘曲	0.34
+ja_22	japanese	登場人物の衣装・小物に現代のデザインを応用したものが随所に登場している。	小物	0.18
+ja_23	japanese	登場人物の衣装・小物に現代のデザインを応用したものが随所に登場している。	応用した	0.18
+ja_24	japanese	登場人物の衣装・小物に現代のデザインを応用したものが随所に登場している。	随所	0.58
+ja_25	japanese	店が繰り返し強盗被害にあっていたことなどを考慮したためとされる。	繰り返し	0.16
+ja_26	japanese	店が繰り返し強盗被害にあっていたことなどを考慮したためとされる。	強盗被害	0.32
+ja_27	japanese	店が繰り返し強盗被害にあっていたことなどを考慮したためとされる。	考慮した	0.32
+ja_28	japanese	リスナーが、柴田をキレさせるようなメールを送ってきて山崎が「まあまあまあ、柴田さん」と諫めるコーナー。	キレさせる	0.30
+ja_29	japanese	リスナーが、柴田をキレさせるようなメールを送ってきて山崎が「まあまあまあ、柴田さん」と諫めるコーナー。	諫める	0.62
+ja_30	japanese	リスナーが、柴田をキレさせるようなメールを送ってきて山崎が「まあまあまあ、柴田さん」と諫めるコーナー。	コーナー	0.08
+pt_1	portuguese	as equipes contratadas pelo departamento de estradas de rodagem do paraná (der/pr) estão fazendo a primeira camada de asfalto no trecho da rodovia que passa por baixo da trincheira da jacob macanhan e também nos acessos laterais para a avenida camilo di lellis e para os bairros da região de pinhais	estradas	0.08
+pt_2	portuguese	"atenta à necessidade de melhorar a transparência dos fundos, a entidade lançará em seu congresso que começa nesta segunda-feira, 12, em florianópolis, o seu primeiro código de governança de investimentos, de adesão voluntária dos fundos"	transparência	0.24
+pt_3	portuguese	"E o sacerdote fará expiação por toda a congregação dos filhos de Israel, e lhes será perdoado, porquanto foi por ignorância; e trouxeram a sua oferta, oferta queimada ao SENHOR, e a sua expiação do pecado perante o SENHOR, por causa da sua ignorância."	expiação	0.55
+pt_4	portuguese	"Não te assenhorearás dele com rigor, mas do teu Deus terás temor."	rigor	0.31
+pt_5	portuguese	"outro: a luta contra a corrupção é progressiva quando prende empreiteiros que ganharam contratos milionários na petrobrás, mas reacionária quando a investigação é, tortuosamente, manipulada para criminalizar somente o pt"	empreiteiros	0.36
+pt_6	portuguese	"para que a organização criminosa alcançasse sucesso e pudesse praticar crimes ao longo dos anos, foi necessária a formatação de uma base empresarial, burocrática, técnica e política que desse sustentação aos atos criminosos"	atos	0.12
+pt_7	portuguese	"Como também os ratos de ouro, segundo o número de todas as cidades dos filisteus, pertencentes aos cinco príncipes, desde as cidades fortificadas até às aldeias, e até Abel. A grande pedra, sobre a qual puseram a arca do SENHOR, ainda está até ao dia de hoje no campo de Josué, o bete-semita."	aldeias	0.06
+pt_8	portuguese	"no percurso rápido, estamos buscando uma vida mais agitada e audaciosa, que nos proporcione maiores triunfos, apesar dos perigos"	perigos	0.13
+pt_9	portuguese	"E, navegando dali, chegamos no dia seguinte defronte de Quios, e no outro aportamos a Samos e, ficando em Trogílio, chegamos no dia seguinte a Mileto."	navegando	0.18
+pt_10	portuguese	"por isso, os países sócios adotam uma política única de taxação de produtos importados, a chamada tarifa externa comum (tec)"	produtos	0.06
+pt_11	portuguese	"o pesquisador paulo barreto, do imazon, acrescentou mais cinco medidas contra o desmatamento: cobrar o imposto rural, expandir a moratória da soja ao cerrado, fechar o mercado para a carne ilegal, dar crédito só para quem cumpre a lei e inovar nas táticas de combate"	moratória	0.55
+pt_12	portuguese	"vários líderes da guerrilha o rodeavam, vestindo camisetas com o novo slogan das farc: reconciliação nacional, paz com justiça social e democracia avançada"	democracia	0.23
+pt_13	portuguese	buzzi entendeu que a condenação poderia comprometer a própria estrutura de subsistência familiar	subsistência	0.48
+pt_14	portuguese	"Como terapêutica de life-saving, optou-se por realizar fibrinólise com fator ativador do plasminogénio tecidual, através do dreno torácico, o que ocorreu com sucesso e sem complicações."	ativador	0.25
+pt_15	portuguese	"Todavia tu, pela multidão das tuas misericórdias, não os deixaste no deserto. A coluna de nuvem nunca se apartou deles de dia, para os guiar pelo caminho, nem a coluna de fogo de noite, para lhes iluminar; e isto pelo caminho por onde haviam de ir."	misericórdias	0.38
+pt_16	portuguese	"Usando a mesma estratégia do grupo da EAPC, efetuamos uma pesquisa sistemática da literatura nas bases de dados eletrónicas PubMed e Scopus incluindo estudos originais em adultos com cancro avançado, sem tratamento dirigido à neoplasia, com sobrevivência mediana inferior a 90 dias."	bases	0.29
+pt_17	portuguese	"Porque, devendo já ser mestres pelo tempo, ainda necessitais de que se vos torne a ensinar quais sejam os primeiros rudimentos das palavras de Deus; e vos haveis feito tais que necessitais de leite, e não de sólido mantimento."	rudimentos	0.58
+pt_18	portuguese	"Depois tomarás do sangue do novilho, e o porás com o teu dedo sobre as pontas do altar, e todo o sangue restante derramarás à base do altar."	novilho	0.38
+pt_19	portuguese	"Nem jurarás pela tua cabeça, porque não podes tornar um cabelo branco ou preto."	cabelo	0.1
+pt_20	portuguese	"Grupo 1 (com puberdade e menarca espontânea): 20 (25,3%) doentes, 16,1 ± 8,9 anos."	puberdade	0.32
+pt_21	portuguese	"A transmissão da doença ocorreu predominantemente em ambiente escolar, com taxas de ataque < 30%."	ataque	0.25
+pt_22	portuguese	eles foram levados pela enxurrada e parte do gramado das margens também foram levados pelas águas	margens	0.23
+pt_23	portuguese	"Indo, pois, ter com ele os samaritanos, rogaram-lhe que ficasse com eles; e ficou ali dois dias."	samaritanos	0.48
+pt_24	portuguese	"Inclinai os vossos ouvidos, e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei uma aliança perpétua, dando-vos as firmes beneficências de Davi."	beneficências	0.49
+pt_25	portuguese	"tóquio volta a cair de olho em boj – influenciada por incertezas antes da reunião do banco do japão da próxima semana, a bolsa de tóquio recuou pelo segundo pregão consecutivo o nikkei caiu 1,26%, depois de registrar recuo de 0,69% ontem"	incertezas	0.08
+pt_26	portuguese	"E até pelos pais, e irmãos, e parentes, e amigos sereis entregues; e matarão alguns de vós."	pais	0.07
+pt_27	portuguese	"Para o que (digo a verdade em Cristo, não minto) fui constituído pregador, e apóstolo, e doutor dos gentios na fé e na verdade."	gentios	0.46
+pt_28	portuguese	galdino precisou ser controlado por colegas e acabou preso pela guarda municipal	colegas	0.13
+pt_29	portuguese	"A mulher virtuosa é a coroa do seu marido, mas a que o envergonha é como podridão nos seus ossos."	podridão	0.2
+pt_30	portuguese	"Na avaliação da classificação das três colunas, a reprodutibilidade interobservador foi de 0,47 (p < 0,0001), classificada como concordância moderada."	coluna	0.15
