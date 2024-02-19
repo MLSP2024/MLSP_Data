@@ -1,30 +1,30 @@
-en_0	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	external	0.05
-en_1	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	pulled	0.075
-en_2	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	robot	0.1
-en_3	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	bank	0.05
-en_4	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	recommended	0.1
-en_5	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	declared	0.05
-en_6	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	remainder	0.1
-en_7	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	controlling	0.175
-en_8	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	conditional	0.175
-en_9	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	gone	0.075
-en_10	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	prerequisite	0.4
-en_11	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	relates	0.075
-en_12	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	micro	0.22727272727272727
-en_13	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	controllers	0.18181818181818182
-en_14	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	hardware	0.18181818181818182
-en_15	english	A pickup is a magnet wrapped in a coil of wire.	wrapped	0.025
-en_16	english	A pickup is a magnet wrapped in a coil of wire.	coil	0.15
-en_17	english	A pickup is a magnet wrapped in a coil of wire.	pickup	0.475
-en_18	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	reagent	0.6818181818181818
-en_19	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	electrons	0.2727272727272727
-en_20	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	neutrally	0.22727272727272727
-en_21	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	beautiful	0.05
-en_22	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	undertake	0.225
-en_23	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	discover	0.1
-en_24	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	seventh	0.022727272727272728
-en_25	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	eliminated	0.3181818181818182
-en_26	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	erstwhile	0.9318181818181818
-en_27	english	A vector is a quantity which expresses both magnitude and direction.	magnitude	0.175
-en_28	english	A vector is a quantity which expresses both magnitude and direction.	quantity	0.075
-en_29	english	A vector is a quantity which expresses both magnitude and direction.	vector	0.25
+en_1	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	external	0.05
+en_2	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	pulled	0.075
+en_3	english	(If your robot has an external ROM chip, then that is the one that is pulled and replaced.	robot	0.1
+en_4	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	bank	0.05
+en_5	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	recommended	0.1
+en_6	english	A bank holiday was declared in October, 1857 and Secretary of the Treasury Howell Cobb recommended the government selling revenue bonds and reducing the tariff (Tariff of 1857).	declared	0.05
+en_7	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	remainder	0.1
+en_8	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	controlling	0.175
+en_9	english	A continue statement will skip the remainder of the block and start at the controlling conditional statement again.	conditional	0.175
+en_10	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	gone	0.075
+en_11	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	prerequisite	0.4
+en_12	english	A good introduction tells the student what will be covered, how it relates to what has gone before, and any specific prerequisite knowledge.	relates	0.075
+en_13	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	micro	0.22727272727272727
+en_14	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	controllers	0.18181818181818182
+en_15	english	A more modern hardware character generator can be build around one of these small micro controllers (e.g.	hardware	0.18181818181818182
+en_16	english	A pickup is a magnet wrapped in a coil of wire.	wrapped	0.025
+en_17	english	A pickup is a magnet wrapped in a coil of wire.	coil	0.15
+en_18	english	A pickup is a magnet wrapped in a coil of wire.	pickup	0.475
+en_19	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	reagent	0.6818181818181818
+en_20	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	electrons	0.2727272727272727
+en_21	english	A positively or neutrally charged reagent that forms bonds by accepting electrons from a nucleophile.	neutrally	0.22727272727272727
+en_22	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	beautiful	0.05
+en_23	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	undertake	0.225
+en_24	english	A smaller number of persons  undertake such a challenge and then discover that calculus is beautiful in and of itself.	discover	0.1
+en_25	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	seventh	0.022727272727272728
+en_26	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	eliminated	0.3181818181818182
+en_27	english	A third was apparently eliminated by an erstwhile Death Eater identified only as R.A.B., but this turns out in the seventh book to not have happened.	erstwhile	0.9318181818181818
+en_28	english	A vector is a quantity which expresses both magnitude and direction.	magnitude	0.175
+en_29	english	A vector is a quantity which expresses both magnitude and direction.	quantity	0.075
+en_30	english	A vector is a quantity which expresses both magnitude and direction.	vector	0.25
