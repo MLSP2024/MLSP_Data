@@ -1,9 +1,9 @@
-fil_1	filipino	"""Akin na 'yan!"" biglang agaw ni Karlo sa laruan ni Lara."	agaw	0.075
+fil_1	filipino	"Akin na 'yan!" biglang agaw ni Karlo sa laruan ni Lara.	agaw	0.075
 fil_2	filipino	Isang agila ang kinaibigan ni Nanay.	agila	0.125
 fil_3	filipino	Sa takot na matangay ng agos ang anak ay agad-agad niya itong tinulungan.	agos	0.15
 fil_4	filipino	Ang grupo pala ng malaking si Enteng, akay ang mga balyan at sa saliw ng musika ay sumasayaw-sayaw.	akay	0.25
-fil_5	filipino	"At ang sigaw ng ale sa malaking bahay ay ""Aaaaaeeeeeiiiii!"""	ale	0.15
-fil_6	filipino	"""Sino't alin sa dalawa ang inyong magiging asawa?"" Sumagot na kapagkuwan si Don Pedrong tampalasan."	alin	0.05
+fil_5	filipino	At ang sigaw ng ale sa malaking bahay ay "Aaaaaeeeeeiiiii!"	ale	0.15
+fil_6	filipino	"Sino't alin sa dalawa ang inyong magiging asawa?" Sumagot na kapagkuwan si Don Pedrong tampalasan.	alin	0.05
 fil_7	filipino	Pagkauwi ko noong isang araw ay binuksan ko na ang alkansiya ko.	alkansiya	0.375
 fil_8	filipino	Ipinapatawag siya ni Mama at pumupunta siya sa amin kapag may sakit ako.	amin	0.025
 fil_9	filipino	Karga-karga nga raw ako ni Nanay nang ihatid siya sa airport ng buong angkan namin.	angkan	0.275
@@ -13,7 +13,7 @@ fil_12	filipino	Di nalao'y natutuhan ang sa armas ay pagtangan.	armas	0.25
 fil_13	filipino	Ihatid mo ako sa kabila at kukunin ko ang aking atay sa aming bahay.	atay	0.1
 fil_14	filipino	Kapag nahihirapan ako, nariyan palagi sina ate at kuya upang ako'y alalayan.	ate	0.025
 fil_15	filipino	Wala namang hurricane dito sa atin at wala namang nasalanta ngayon ng bagyo, lindol, o anuman.	atin	0.025
-fil_16	filipino	"""Kasi hindi ka naligo kagabi, ayan tuloy,"" sabi niya."	ayan	0.05
+fil_16	filipino	"Kasi hindi ka naligo kagabi, ayan tuloy," sabi niya.	ayan	0.05
 fil_17	filipino	Pero ayaw pumayag ni Monang.	ayaw	0.025
 fil_18	filipino	Nalimot ni Tuan Putli ang babala ng asawa.	babala	0.225
 fil_19	filipino	Kaya nang bahagya siyang kumilos, natibag ang kanyang tinutungtungan.	bahagya	0.475
