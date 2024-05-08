@@ -4,6 +4,8 @@
 
 ### Notice 2 - Cleaned Gold data is available at: https://huggingface.co/datasets/MLSP2024/MLSP2024 This data should be used in conjunction with Data/Test_Clean, not with Data/Test/ **
 
+### Notice 3 - The trial and test data is named as 'multilex', however the final dataset (as in the test_clean and gold data) is called 'MultiLS'. Please use this name to refer to the dataset.
+
 The public data and evaluation scripts for the MLSP 2024 Shared Task
 
 The Trial Data is found in Data/Trial/
