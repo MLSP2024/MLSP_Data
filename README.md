@@ -1,5 +1,9 @@
 # MLSP_Data
 
+### Notice 1 - the MLSP 2024 Shared Task is now concluded. This repository is maintained for data distribution. **
+
+### Notice 2 - Cleaned Gold data is available at: https://huggingface.co/datasets/MLSP2024/MLSP2024 This data should be used in conjunction with Data/Test_Clean, not with Data/Test/ **
+
 The public data and evaluation scripts for the MLSP 2024 Shared Task
 
 The Trial Data is found in Data/Trial/
@@ -17,7 +21,9 @@ The scripts folder contains 2 scripts for evaluation
 
 All Trial Data has now been released. Please register your interest in the task to receive updates (registration form at the task website here: https://sites.google.com/view/mlsp-sharedtask-2024/home?authuser=0)
 
-All Test Data is now released in full. Participant submissions should be made via the [MLSP_Participants](https://github.com/MLSP2024/MLSP_Participants) Repository.
+All Test Data for the shared task is now released in full at Data/Test/ Participant submissions should be made via the [MLSP_Participants](https://github.com/MLSP2024/MLSP_Participants) Repository.
+
+We have also included cleaned Test Data at Data/Test_Clean/ which removes some problematic instances (repetitions, missing targets, etc.). The labels for the cleaned test data are available via the [MLSP 2024 HuggingFace Dataset](https://huggingface.co/datasets/MLSP2024/MLSP2024)
 
 Metadata for the annotators of each subset is included in the Table below:
 
