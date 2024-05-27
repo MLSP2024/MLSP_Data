@@ -27,6 +27,10 @@ All Test Data for the shared task is now released in full at Data/Test/ Particip
 
 We have also included cleaned Test Data at Data/Test_Clean/ which removes some problematic instances (repetitions, missing targets, etc.). The labels for the cleaned test data are available via the [MLSP 2024 HuggingFace Dataset](https://huggingface.co/datasets/MLSP2024/MLSP2024)
 
+The baselines are available in separate repositories:
+- [LLM-based lexical simplification baseline](https://github.com/MLSP2024/MLSP_LS_LLM_Baseline)
+- [Frequency-based lexical complexity baseline](https://github.com/MLSP2024/MLSP_LCP_Baseline)
+
 Metadata for the annotators of each subset is included in the Table below:
 
  language       | age         | years in education  | nr. of L2-languages | hours reading/week | number of native annotators | number of non-native annotators | L1-languages
